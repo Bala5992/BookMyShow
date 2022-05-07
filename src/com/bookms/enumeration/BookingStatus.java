@@ -1,5 +1,5 @@
 package com.bookms.enumeration;
 
-public enum BookinStatus {
+public enum BookingStatus {
     REQUESTED, PENDING, CONFIRMED, CANCELLED;
 }
